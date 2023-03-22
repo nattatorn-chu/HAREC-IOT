@@ -1,1 +1,1 @@
-# HAREC-IOT
+# Human Activity Recognition with IoT
